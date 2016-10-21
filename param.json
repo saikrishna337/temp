@@ -13,7 +13,7 @@
   },
   {
     "ParameterKey": "InstanceSecurityGroup",
-    "ParameterValue": "sg-12345"
+    "ParameterValue": "sg-62eb741b"
   },
   {
     "ParameterKey": "SubnetId",
