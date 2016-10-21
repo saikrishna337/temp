@@ -1,0 +1,23 @@
+[
+  {
+    "ParameterKey": "InstanceType",
+    "ParameterValue": "t2.micro"
+  }, 
+  {
+    "ParameterKey": "KeyName",
+    "ParameterValue": "Instance1"
+  },
+  {
+    "ParameterKey": "ImageID",
+    "ParameterValue": "ami-b04e92d0"
+  },
+  {
+    "ParameterKey": "InstanceSecurityGroup",
+    "ParameterValue": "sg-12345"
+  },
+  {
+    "ParameterKey": "SubnetId",
+    "ParameterValue": "subnet-12345"
+  }
+  
+]
