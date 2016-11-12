@@ -9,15 +9,15 @@
   },
   {
     "ParameterKey": "ImageID",
-    "ParameterValue": "ami-b04e92d0"
+    "ParameterValue": "ami-b73b63a0"
   },
   {
     "ParameterKey": "InstanceSecurityGroup",
-    "ParameterValue": "sg-62eb741b"
+    "ParameterValue": "sg-ef3cf292"
   },
   {
     "ParameterKey": "SubnetId",
-    "ParameterValue": "subnet-caa2d6bc"
+    "ParameterValue": "subnet-a357f68e"
   }
   
 ]
