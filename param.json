@@ -5,19 +5,19 @@
   }, 
   {
     "ParameterKey": "KeyName",
-    "ParameterValue": "Instance1"
+    "ParameterValue": "test"
   },
   {
     "ParameterKey": "ImageID",
-    "ParameterValue": "ami-b73b63a0"
+    "ParameterValue": "ami-5ec1673e"
   },
   {
     "ParameterKey": "InstanceSecurityGroup",
-    "ParameterValue": "sg-ef3cf292"
+    "ParameterValue": "sg-9c6533e5"
   },
   {
     "ParameterKey": "SubnetId",
-    "ParameterValue": "subnet-a357f68e"
+    "ParameterValue": "subnet-3ce1bd4a"
   }
   
 ]
